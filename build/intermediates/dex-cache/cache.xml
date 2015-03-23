@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/gustavo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Volumes/Backup/Projetos/TakePonto/Application/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-53849d75f33b46bdbcb9b7b126a340617b5bb138.jar" />
+    </item>
+    <item
+        jar="/Volumes/Backup/Projetos/TakePonto/Application/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="def3eff2b7b4774d96ae15b07b3fc0111edbfe24">
+        <dex dex="/Volumes/Backup/Projetos/TakePonto/Application/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-9451f82ca8f3dcd2ead86dc2de2f80f97d80c8a4.jar" />
+    </item>
+    <item
+        jar="/Volumes/Backup/Projetos/TakePonto/Application/build/intermediates/exploded-aar/com.melnykov/floatingactionbutton/1.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="ee9ae2b87d57a33a7381c75d54db12bdf2995656">
+        <dex dex="/Volumes/Backup/Projetos/TakePonto/Application/build/intermediates/pre-dexed/debug/classes-aec08c41ed1bb0ecbb9e56692ad44274a143f652.jar" />
+    </item>
+    <item
+        jar="/Volumes/Backup/Projetos/TakePonto/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="95482e7c792a7c0d5a9d5461e97726bd54fe9549">
+        <dex dex="/Volumes/Backup/Projetos/TakePonto/Wearable/build/intermediates/pre-dexed/release/classes-0bdab6282cce1916e2e3fa1a6d7269d54436d937.jar" />
+    </item>
+    <item
+        jar="/Volumes/Backup/Projetos/TakePonto/Application/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7f9cca1caa023a880b00c382bcc5c90245ae4895">
+        <dex dex="/Volumes/Backup/Projetos/TakePonto/Application/build/intermediates/pre-dexed/debug/classes-136ae087d1346a4baf4ffd5a67bdb10de8a77a62.jar" />
+    </item>
+    <item
+        jar="/Users/gustavo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Volumes/Backup/Projetos/TakePonto/Wearable/build/intermediates/pre-dexed/release/support-annotations-21.0.3-e0621e5419ed0ecbb2ae20812cce2129934c0666.jar" />
+    </item>
+    <item
+        jar="/Users/gustavo/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Volumes/Backup/Projetos/TakePonto/Application/build/intermediates/pre-dexed/debug/library-2.4.0-8d0a7a413feda14c97c6055c5b6600c8ca5d0860.jar" />
+    </item>
+    <item
+        jar="/Volumes/Backup/Projetos/TakePonto/Wearable/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Volumes/Backup/Projetos/TakePonto/Wearable/build/intermediates/pre-dexed/release/internal_impl-21.0.3-3ffb597ed1acaf8a5e7770993994502dcaf0f619.jar" />
+    </item>
+    <item
+        jar="/Volumes/Backup/Projetos/TakePonto/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="6384c6cd674a22610b932d9464aa6938d067f285">
+        <dex dex="/Volumes/Backup/Projetos/TakePonto/Application/build/intermediates/pre-dexed/debug/classes-3473f3d8c01977c3e6d9dfc90027392aa7fc0b24.jar" />
+    </item>
+    <item
+        jar="/Volumes/Backup/Projetos/TakePonto/Wearable/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="2c2071dcaf7a008c3b01a6381a33be55396bab09">
+        <dex dex="/Volumes/Backup/Projetos/TakePonto/Wearable/build/intermediates/pre-dexed/release/classes-8c96545279809eb99e452ba3844553b24b0feba1.jar" />
+    </item>
+    <item
+        jar="/Volumes/Backup/Projetos/TakePonto/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Volumes/Backup/Projetos/TakePonto/Application/build/intermediates/pre-dexed/debug/classes-ae2012113d4329d7944685c1ebac0c8e8ccb327b.jar" />
+    </item>
+    <item
+        jar="/Volumes/Backup/Projetos/TakePonto/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="6384c6cd674a22610b932d9464aa6938d067f285">
+        <dex dex="/Volumes/Backup/Projetos/TakePonto/Wearable/build/intermediates/pre-dexed/release/classes-a7f45fe0e56ee3aafd4fdb18673a8ade24a5d436.jar" />
+    </item>
+    <item
+        jar="/Volumes/Backup/Projetos/TakePonto/Application/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Volumes/Backup/Projetos/TakePonto/Application/build/intermediates/pre-dexed/debug/classes-3a2df6f7ad1f8eef3c482823777004d471e45668.jar" />
+    </item>
+    <item
+        jar="/Volumes/Backup/Projetos/TakePonto/Wearable/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="/Volumes/Backup/Projetos/TakePonto/Wearable/build/intermediates/pre-dexed/release/classes-62b2275d62189a816156c7e655a9584f435089b9.jar" />
+    </item>
+    <item
+        jar="/Volumes/Backup/Projetos/TakePonto/Application/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="/Volumes/Backup/Projetos/TakePonto/Application/build/intermediates/pre-dexed/debug/classes-01de397fd023a6539cab0d81c2423fb0bd81d880.jar" />
+    </item>
+    <item
+        jar="/Volumes/Backup/Projetos/TakePonto/Application/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Volumes/Backup/Projetos/TakePonto/Application/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-54f75744be93fe0de5e5a4cb4346d0356dcdba46.jar" />
+    </item>
+    <item
+        jar="/Volumes/Backup/Projetos/TakePonto/Application/build/intermediates/exploded-aar/TakePonto/Library/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="627aa96f11474e844fd4d18cd06d825abc3c7fa7">
+        <dex dex="/Volumes/Backup/Projetos/TakePonto/Application/build/intermediates/pre-dexed/debug/classes-d4535681e29a0ff3097e0ae7d435b063734e36ac.jar" />
+    </item>
+    <item
+        jar="/Volumes/Backup/Projetos/TakePonto/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="27f19641b81b1078e653d2f0e5d1ed44d158a785">
+        <dex dex="/Volumes/Backup/Projetos/TakePonto/Wearable/build/intermediates/pre-dexed/release/classes-5a857f161f9e689cd136a524fc28d7582fc32b2f.jar" />
+    </item>
+    <item
+        jar="/Volumes/Backup/Projetos/TakePonto/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="95482e7c792a7c0d5a9d5461e97726bd54fe9549">
+        <dex dex="/Volumes/Backup/Projetos/TakePonto/Application/build/intermediates/pre-dexed/debug/classes-db72cfcab9b1f368d429218d8460be56a172358a.jar" />
+    </item>
+    <item
+        jar="/Volumes/Backup/Projetos/TakePonto/Wearable/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Volumes/Backup/Projetos/TakePonto/Wearable/build/intermediates/pre-dexed/release/classes-3c4fb0996149f6e7ab1e44c1eaa28954056509eb.jar" />
+    </item>
+    <item
+        jar="/Volumes/Backup/Projetos/TakePonto/Wearable/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="0dcc55e70f7ebf7238fe2ec53f662eb378ab2668">
+        <dex dex="/Volumes/Backup/Projetos/TakePonto/Wearable/build/intermediates/pre-dexed/release/internal_impl-21.0.3-748db79c5a34869e1d292ce133ca9d526c4ffe92.jar" />
+    </item>
+
+</items>

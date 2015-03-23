@@ -1,0 +1,10 @@
+/Volumes/Backup/Projetos/TakePonto/Wearable/build/intermediates/classes/release
+/Volumes/Backup/Projetos/TakePonto/Wearable/build/intermediates/pre-dexed/release/internal_impl-21.0.3-748db79c5a34869e1d292ce133ca9d526c4ffe92.jar
+/Volumes/Backup/Projetos/TakePonto/Wearable/build/intermediates/pre-dexed/release/support-annotations-21.0.3-e0621e5419ed0ecbb2ae20812cce2129934c0666.jar
+/Volumes/Backup/Projetos/TakePonto/Wearable/build/intermediates/pre-dexed/release/classes-8c96545279809eb99e452ba3844553b24b0feba1.jar
+/Volumes/Backup/Projetos/TakePonto/Wearable/build/intermediates/pre-dexed/release/classes-a7f45fe0e56ee3aafd4fdb18673a8ade24a5d436.jar
+/Volumes/Backup/Projetos/TakePonto/Wearable/build/intermediates/pre-dexed/release/internal_impl-21.0.3-3ffb597ed1acaf8a5e7770993994502dcaf0f619.jar
+/Volumes/Backup/Projetos/TakePonto/Wearable/build/intermediates/pre-dexed/release/classes-5a857f161f9e689cd136a524fc28d7582fc32b2f.jar
+/Volumes/Backup/Projetos/TakePonto/Wearable/build/intermediates/pre-dexed/release/classes-62b2275d62189a816156c7e655a9584f435089b9.jar
+/Volumes/Backup/Projetos/TakePonto/Wearable/build/intermediates/pre-dexed/release/classes-3c4fb0996149f6e7ab1e44c1eaa28954056509eb.jar
+/Volumes/Backup/Projetos/TakePonto/Wearable/build/intermediates/pre-dexed/release/classes-0bdab6282cce1916e2e3fa1a6d7269d54436d937.jar

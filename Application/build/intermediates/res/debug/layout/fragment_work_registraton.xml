@@ -1,0 +1,79 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:id="@+id/sign_in"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center_horizontal|center_vertical"
+        android:layout_marginTop="100dp"
+        android:layout_marginBottom="10dp">
+        <ImageButton
+            android:id="@+id/sign_in_btn"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/sign_in"
+            android:layout_margin="20dp"
+            android:gravity="center_horizontal"
+            android:background="@drawable/button_actions"
+            android:scaleType="fitCenter"/>
+
+        <TextView
+            android:id="@+id/txt1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/img2"
+            android:text="ENTRAR"
+            android:textStyle="bold"
+            android:gravity="center_horizontal"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/sign_out"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center_horizontal|center_vertical"
+        android:layout_marginTop="100dp"
+        android:visibility="gone">
+
+        <ImageButton
+            android:id="@+id/sign_out_btn"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/sign_out"
+            android:layout_margin="20dp"
+            android:gravity="center_horizontal"
+            android:scaleType="fitCenter"
+            android:background="@drawable/button_actions"/>
+
+        <TextView
+            android:id="@+id/txt2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/img2"
+            android:text="SAIR"
+            android:textStyle="bold"
+            android:gravity="center_horizontal"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center_horizontal">
+
+        <Button
+            android:id="@+id/toogle_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Toogle"
+            />
+    </LinearLayout>
+</LinearLayout>
+
+<!-- From: file:/Volumes/Backup/Projetos/TakePonto/Application/src/main/res/layout/fragment_work_registraton.xml -->
