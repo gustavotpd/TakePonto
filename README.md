@@ -1,7 +1,7 @@
 TakePonto
 ===================================
 
-Aplicativo Mobile para apontamento de horas dos TakeSeres.
+Aplicativo Mobile/Wearable para apontamento de horas dos TakeSeres.
 
 Pre-requisitos
 --------------
