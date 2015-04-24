@@ -3,7 +3,7 @@ TakePonto
 
 Aplicativo Mobile para apontamento de horas dos TakeSeres.
 
-Pre-requisites
+Pre-requisitos
 --------------
 
 - Android SDK v21
