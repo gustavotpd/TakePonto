@@ -3,6 +3,10 @@ TakePonto
 
 Aplicativo Mobile/Wearable para apontamento de horas dos TakeSeres.
 
+Dispositivo Wearable opcional.
+
+===================================
+
 Pre-requisitos
 --------------
 
